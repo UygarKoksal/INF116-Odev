@@ -1,7 +1,7 @@
 #include "finalproject.h"
 
 
-
+// güncelleme için test
 
 int main(int argc, char* argv[]){
 

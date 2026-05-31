@@ -1,0 +1,5 @@
+101 iPhone 50000 3
+102 Mouse 250 15
+103 Monitor 4500 4
+
+104 Klavye 150.00 3
